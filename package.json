@@ -68,6 +68,7 @@
 		"query-string": "^5.1.1",
 		"react": "^16.14.0",
 		"react-dom": "^16.14.0",
-		"react-polyfills": "0.0.1"
+		"react-polyfills": "0.0.1",
+		"react-router-dom": "^5.2.0"
 	}
 }
